@@ -4,11 +4,11 @@ use rand::Rng;
 
 fn main() {
     println!("Hello User,");
-    println!("Guess the number!");
+    println!("Guess the number!\n");
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
 
-
+loop{
     loop{
         println!("Please input your guess.");
 
@@ -23,16 +23,17 @@ fn main() {
             Err(_) => continue,
         };
 
-        println!("You guessed: {guess}");
+        println!("\nYou guessed: {guess}");
 
         match guess.cmp(&secret_number) {
-            Ordering::Less => println!("Too small!"),
-            Ordering::Greater => println!("Too big!"),
+            Ordering::Less => println!("Too small!\n"),
+            Ordering::Greater => println!("Too big!\n"),
             Ordering::Equal => {
                 println!("The Secret Number was: {secret_number}");
-                println!("You win!");
+                println!("Let's Play Again.");
                 
                 break;
+                }
             }
         }
     }
