@@ -1,0 +1,10 @@
+/home/luna/rustlings-playground/guessing_game/guessing_game/target/x86_64-pc-windows-gnu/release/deps/libzerocopy-e337ce8960650ea7.rmeta: /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs
+
+/home/luna/rustlings-playground/guessing_game/guessing_game/target/x86_64-pc-windows-gnu/release/deps/libzerocopy-e337ce8960650ea7.rlib: /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs
+
+/home/luna/rustlings-playground/guessing_game/guessing_game/target/x86_64-pc-windows-gnu/release/deps/zerocopy-e337ce8960650ea7.d: /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs /home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs
+
+/home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs:
+/home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs:
+/home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs:
+/home/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs:
